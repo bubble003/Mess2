@@ -30,12 +30,6 @@ const Navbar = () => {
             Home
           </Link>
           <Link
-            to="/contact"
-            className="mr-5 text-white text-lg hover:text-gray-900 hover:no-underline"
-          >
-            Contact Us
-          </Link>
-          <Link
             to="/about"
             className="mr-5 hover:text-gray-900 text-white text-lg hover:no-underline"
           >
